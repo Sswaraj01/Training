@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: employee-client
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: 748152
+Implementation-Vendor-Id: io.pivotal
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/employee-client
+Created-By: Maven Integration for Eclipse
+
